@@ -1,0 +1,17 @@
+{
+  "url": "https://www.govinfo.gov/app/search/%7B%22query%22%3A%22MI%20LITTLE%20TRAVERSE%20BAY%20BANDS%20OF%20ODAWA%20INDIA%22%7D",
+  "final_url": "https://www.govinfo.gov/app/search/%7B%22query%22%3A%22MI%20LITTLE%20TRAVERSE%20BAY%20BANDS%20OF%20ODAWA%20INDIA%22%7D",
+  "title": "GovInfo - MI LITTLE TRAVERSE BAY BANDS OF ODAWA INDIA",
+  "fetched_at": "2026-11-23T17:41:47.237308Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 1769,
+  "sha256": "5eaab8c283492d3374ae75f219920078fa7959a4827177ad39dbfc28d036ae74",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
